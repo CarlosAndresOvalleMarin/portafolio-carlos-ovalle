@@ -1,0 +1,38 @@
+.contact {
+  padding: 4rem 2rem;
+  background-color: #fff;
+  text-align: center;
+}
+
+.contact-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.contact-grid a {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  text-decoration: none;
+  color: #333;
+  background: #f3f3f3;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  transition: background 0.2s ease;
+}
+
+.contact-grid a:hover {
+  background: #e0e0e0;
+}
+
+.contact-grid img {
+  width: 24px;
+  height: auto;
+}
+.contact-grid img {
+  width: 24px;
+  height: auto;
+}
