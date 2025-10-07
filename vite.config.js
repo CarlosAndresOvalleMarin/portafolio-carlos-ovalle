@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/portafolio-carlos-ovalle/', // 👈 cámbialo por el nombre real del repo
+  base: '/portafolio-carlos-ovalle/', // 👈 importante: igual al nombre del repo
 })
